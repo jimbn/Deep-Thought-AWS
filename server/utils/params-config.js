@@ -13,3 +13,5 @@ const params = (fileName) => {
 
   return imageParams;
 };
+
+module.exports = params;
